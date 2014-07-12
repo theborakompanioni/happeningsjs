@@ -1,0 +1,23 @@
+{
+  "name": "happeningsjs",
+  "version": "0.1.0",
+  "main": [
+      "./dist/happeningsjs.min.js"
+  ],
+  "ignore": [
+    "bin",
+    "spec",
+    "bower_components",
+    "node_modules",
+    "Gruntfile.js",
+    "SpecRunner.html",
+    "package.json",
+    "bower.json",
+    "**/.*"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "~2.0.0"
+  }
+}
